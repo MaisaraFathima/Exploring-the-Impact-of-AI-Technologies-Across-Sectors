@@ -1,5 +1,4 @@
 # Exploring the Impact of AI Technologies Across Sectors
-
 This project provides a visual exploration of how AI technologies are used across different industries based on dataset trends.  
 Python + Matplotlib + Seaborn were used to analyze category frequencies and visualize variations across sectors and tools.
 
